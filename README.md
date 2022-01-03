@@ -1,1 +1,2 @@
-# hacker
+Pkg update && pgk install
+
